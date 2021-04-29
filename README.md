@@ -3,7 +3,7 @@
 
 Contact Me:
 
-✉ Email: zhedong.zheng@student.uts.edu.au
+✉ Email: junweil@cs.cmu.edu
 
 ✧ Website: https://www.cs.cmu.edu/~junweil/
 
