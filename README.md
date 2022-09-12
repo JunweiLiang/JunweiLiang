@@ -1,14 +1,10 @@
 
-![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=JunweiLiang&show_icons=true&count_private=true&hide=prs,issues&theme=default_repocard)
 
-<!--no need to show these. Already on the left side
-Contact Me:
+✧ Website: [https://junweiliang.me/](https://junweiliang.me/)
 
-✉ Email: junweil@cs.cmu.edu
+<!-- From this repo: https://github.com/anuraghazra/github-readme-stats -->
+![Junwei's github stats](https://github-readme-stats.vercel.app/api?username=JunweiLiang&show_icons=false&count_private=true&include_all_commits=true&hide=commits,prs,contribs&theme=vue)
 
-✧ Website: https://www.cs.cmu.edu/~junweil/
 
-✧ Linkedin: https://www.linkedin.com/in/junweiliang/
 
-✧ Google Scholar: https://scholar.google.com/citations?hl=en&user=bMedjfUAAAAJ
--->
+
